@@ -1,0 +1,22 @@
+[
+    {
+        "courses_name": "Math",
+        "teacher": "Einstein"
+    },
+    {
+        "courses_name": "Math",
+        "teacher": "Hawking"
+    },
+    {
+        "courses_name": "English",
+        "teacher": "Trump"
+    },
+    {
+        "courses_name": "Computer",
+        "teacher": "Anton"
+    },
+    {
+        "courses_name": "Dance",
+        "teacher": "Yang"
+    }
+]
